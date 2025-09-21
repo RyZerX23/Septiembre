@@ -45,7 +45,8 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 
-    const audio = new Audio('../CNCO_ Yandel - Hey DJ[AMV] Hiraku Dear Moments 👌😎(MP3_128K).mp3');
+    const audio = new Audio('    const audio = new Audio('https://github.com/RyZerX23/Septiembre/blob/main/CNCO_%20Yandel%20-%20Hey%20DJ%5BAMV%5D%20Hiraku%20Dear%20Moments%20%F0%9F%91%8C%F0%9F%98%8E(MP3_128K).mp3');
+');
     let isPlaying = false;
 
     function toggleAudio() {
@@ -109,3 +110,4 @@ document.addEventListener('DOMContentLoaded', function() {
     `;
     document.head.appendChild(style);
 });
+
